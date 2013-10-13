@@ -1,0 +1,29 @@
+.top-banner {
+    background-color: #000000;
+    color: #FFFFFF;
+    padding: 10px;
+    float: left;
+    width: 100%;
+}
+
+.arbitrary-text {
+    float: left;
+    padding: 10px 5px 10px 5px;
+    font-size: 150%;
+}
+
+.link-banner {
+    float: left;
+    width: 100%;
+    background-color: gray;
+    color: white;
+}
+
+.linky {
+    float: left;
+    padding: 5px 10px 5px 10px;
+}
+
+.linky a {
+    color: white;
+}
